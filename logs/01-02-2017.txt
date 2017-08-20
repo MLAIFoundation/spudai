@@ -1,0 +1,17 @@
+****
+date: 01-02-2017  time: 18:46:47 pass: 0  RQ: 0  SC:   ST: 
+message: program START
+****
+date: 01-02-2017  time: 18:46:59 pass: 27  RQ: 3  SC: K  ST: ai:
+OUT: RQ: 3  RQW: 0, OU: ST,  Sentence Type, activates some functions
+input: startup
+output: Activates some functions.
+message: GO:         Ai start activating timer...
+****
+date: 01-02-2017  time: 18:47:07 pass: 27  RQ: 3  SC: E(  ST: aq:tn:
+OUT: RQ: 3  RQW: 0, OU: ST,  Sentence Type, now  were talking
+input: what now
+output: Now were talking.
+****
+date: 01-02-2017  time: 18:47:11 pass: 42  RQ: 3  SC: E(  ST: aq:tn:
+message: program END

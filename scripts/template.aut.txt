@@ -1,0 +1,53 @@
+; Example Script
+; ==============
+;
+; OS:     Windows 9x/NT
+; Author: Jonathan Bennett (jbennett@hidden.demon.co.uk)
+;
+; Runs calc and does a few calcs, pauses then exits
+
+MsgBox, 4, AutoIt Example (English Only), Run calculator automation script?
+IfMsgBox, NO, Goto, denied
+
+Run, calc.exe
+WinWaitActive, Calculator
+Send, 2*2=
+Sleep, 1000
+Send, {DEL}#4*4=
+Sleep, 1000
+Send, {DEL}#16*16=
+Sleep, 1000
+WinClose, Calculator
+WinWaitClose, Calculator
+
+denied:
+Exit
+
+; Example Script
+; ==============
+;
+; OS:     Windows 9x/NT
+; Author: Jonathan Bennett (jbennett@hidden.demon.co.uk)
+;
+; Runs notepad, types stuff in, pauses then exits (using Adlib)
+
+MsgBox, 4, AutoIt Example (English Only), This will run Notepad type in some text\, and then quit (using Adlib). Run?
+IfMsgBox, NO, Goto, denied
+
+Run, notepad.exe
+WinWaitActive, Untitled -
+Send, aAbBcCdDeEfF {!}"$\%{^}&*()_-{+}=#{ENTER}
+Sleep, 1000
+Send, 12345678
+Send, {BS 4}#{BACKSPACE 4}
+Send, !{F4}
+WinWaitClose, Untitled - Notepad
+
+;denied:
+;Exit
+
+[Adlib]
+Notepad, save the changes?, Send, !n
+
+
+

@@ -1,0 +1,34 @@
+<HTML><HEAD><TITLE>WordWeb Developer SQL Demo</TITLE></HEAD>
+<BODY BGCOLOR="#cccc99" TEXT="#000000" LINK="#000066" VLINK="#000066" topmargin=5 bottomMargin=0 leftMargin=0 BORDER=0>
+<BLOCKQUOTE>
+<H2>Lookup results for "thing"</H2>
+
+<BR><B>Noun: thing</B><BR><TABLE BORDER=0><TR><TD VALIGN='TOP'><B>1.</B></TD><TD VALIGN='TOP'>a special situation<BR>&nbsp;<FONT COLOR = "blue">this thing has got to end</FONT><BR>&nbsp;<FONT COLOR = "blue">it is a remarkable thing</FONT></TD></TR><TR><TD VALIGN='TOP'><B>2.</B></TD><TD VALIGN='TOP'>an action<BR>&nbsp;<FONT COLOR = "blue">how could you do such a thing?</FONT></TD></TR><TR><TD VALIGN='TOP'><B>3.</B></TD><TD VALIGN='TOP'>an artifact<BR>&nbsp;<FONT COLOR = "blue">how does this thing work?</FONT></TD></TR><TR><TD VALIGN='TOP'><B>4.</B></TD><TD VALIGN='TOP'>an event<BR>&nbsp;<FONT COLOR = "blue">a funny thing happened on the way to the...</FONT></TD></TR><TR><TD VALIGN='TOP'><B>5.</B></TD><TD VALIGN='TOP'>a statement regarded as an object<BR>&nbsp;<FONT COLOR = "blue">to say the same thing in other terms</FONT><BR>&nbsp;<FONT COLOR = "blue">how can you say such a thing?</FONT></TD></TR><TR><TD VALIGN='TOP'><B>6.</B></TD><TD VALIGN='TOP'>any attribute or quality considered as having its own existence<BR>&nbsp;<FONT COLOR = "blue">the thing I like about her is ...</FONT></TD></TR><TR><TD VALIGN='TOP'><B>7.</B></TD><TD VALIGN='TOP'>a special abstraction<BR>&nbsp;<FONT COLOR = "blue">a thing of the spirit</FONT><BR>&nbsp;<FONT COLOR = "blue">things of the heart</FONT></TD></TR><TR><TD VALIGN='TOP'><B>8.</B></TD><TD VALIGN='TOP'>a vaguely specified concern<BR>&nbsp;<FONT COLOR = "blue">things are going well</FONT></TD></TR><TR><TD VALIGN='TOP'><B>9.</B></TD><TD VALIGN='TOP'>an entity that is not named specifically<BR>&nbsp;<FONT COLOR = "blue">I couldn't tell what the thing was</FONT></TD></TR><TR><TD VALIGN='TOP'><B>10.</B></TD><TD VALIGN='TOP'>a special objective<BR>&nbsp;<FONT COLOR = "blue">the thing is to stay in bounds</FONT></TD></TR><TR><TD VALIGN='TOP'><B>11.</B></TD><TD VALIGN='TOP'>a persistent illogical feeling of desire or aversion<BR>&nbsp;<FONT COLOR = "blue">he has a thing about seafood</FONT><BR>&nbsp;<FONT COLOR = "blue">she has a thing about him</FONT></TD></TR><TR><TD VALIGN='TOP'><B>12.</B></TD><TD VALIGN='TOP'>a separate and self-contained entity</TABLE>
+<BR>
+<BLOCKQUOTE>
+<FONT SIZE=-1 color="red">
+Output generated from SQL tables using:
+<BLOCKQUOTE>
+<FONT COLOR="green">
+select word,name,sense_no,definition,example from word_senses as w left join examples using (word_sense),definitions,word_types where equiv_word='THING' and definitions.ID=w.ID and word_types.word_type=w.word_type order by binary word,w.word_type,sense_no");
+</FONT>
+</BLOCKQUOTE>
+</FONT>
+</BLOCKQUOTE>
+<B>Synonyms</B><BR><BR>affair, matter<BR><BR><FONT SIZE=-1  color="red">
+<BLOCKQUOTE>
+Output generated from SQL tables using:
+<BLOCKQUOTE>
+<FONT COLOR="green">select distinct w2.word,w2.word_type from word_senses as w1,word_senses as w2 where w1.equiv_word='THING' and w1.ID=w2.ID and w1.word_sense<>w2.word_sense order by w2.word_type,w2.word;</FONT>
+</BLOCKQUOTE></FONT>
+</BLOCKQUOTE>
+<B>Derived forms:</B> things (Plural)<BR><BR><FONT SIZE=-1  color="red">
+<BLOCKQUOTE>
+Output generated from SQL tables using:
+<BLOCKQUOTE>
+<FONT COLOR="green">select derivation,word from derived,derived_types where root = 'thing' and derived.derived_type=derived_types.derived_type;</FONT>
+</BLOCKQUOTE></FONT>
+</BLOCKQUOTE>
+
+</BLOCKQUOTE>
+</BODY></HTML>

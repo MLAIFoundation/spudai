@@ -1,0 +1,42 @@
+-- PR Tags
+words go in-between tags eg. hello<prnoun> nice to see you
+<activate>
+<pradjectiv>
+<pradverb>
+<prnoun>
+<prnounverb>
+<prverb>
+<prsendtobrowser>
+<prsendtosearchengine>
+<prsetname>
+<prshowname>
+<prwordafter>
+<test>
+<use5>
+<use6>
+<use7>
+<use8>
+<use9>
+<use10>
+<use12>
+<{any word type}>
+-- user window keywords
+uwbutton
+uwimage
+uwtextin
+uwtextout
+-- extra keywords, if keyword field is already used
+clearputininput
+put8ininput
+put7ininput
+-- file read controls
+CheckWords
+-- WSB controls
+putinoutput
+putinoutput swopinput
+putininput
+putininput swopinput
+swopinput
+
+
+

@@ -1,0 +1,1 @@
+Click on the pluss of the computer you are wanting to communicate with and find the folder that will allow you to write to, usually the 'temp' folder. I create a file and write that file to the folder which is then read by the other computer

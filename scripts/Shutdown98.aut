@@ -1,0 +1,24 @@
+; Example Script
+; ==============
+;
+; OS:     Windows 9x
+; Author: Jonathan Bennett (jbennett@hidden.demon.co.uk)
+;
+; Will shutdown Windows98.  Remove the MsgBox lines if you don't want
+; to be prompted
+;
+
+MsgBox, 4, AutoIt Example (English Only), Really shutdown windows?
+IfMsgBox, NO, Goto, denied
+
+WinMinimizeAll
+WinActivate, Program Manager
+Send, !{F4}
+WinWaitActive, Shut Down Windows
+Send, !s
+Send, {ENTER}
+
+denied:
+Exit
+
+[ADLIB]

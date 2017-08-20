@@ -1,0 +1,64 @@
+; Example Script
+; ==============
+;
+; OS:     Windows 9x/NT
+; Author: Piet for Zob
+;
+;Select a web page in Ai Browser paste it into notepad and save then tell ai to search
+;for a word in the text file created
+
+
+sleep,1000
+SetEnv, TEST, %CLIPBOARD% 
+;MsgBox, 0, Example, %TEST%
+
+ifwinexist,Ai Browser,,goto,putin
+
+WinActivate, Ai
+WinWaitActive, Ai
+send,spud
+Sleep, 100
+
+putin:
+WinActivate, Ai B
+WinWaitActive, Ai B
+Sleep, 300
+LeftClick, 200, 200
+Send,^a
+Send,^c
+Sleep, 100
+run, notepad.exe
+Sleep, 100
+WinActivate, Un
+WinWaitActive, Un
+Send,^v
+Sleep, 100
+send, !f
+Sleep, 100
+send, !{F4}
+Sleep, 100
+send, y
+Sleep, 100
+send,textfile
+Sleep, 100
+send, !s
+Sleep, 100
+send,y
+Sleep, 100
+
+WinActivate, Ai Zob
+WinWaitActive, Ai Zob
+sleep, 100
+send, search web page
+send, {SPACE}
+send, %TEST%
+
+exit
+
+Exit
+
+denied:
+Exit
+
+;[ADLIB]
+;Notepad,, Send, !n

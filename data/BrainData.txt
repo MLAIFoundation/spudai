@@ -1,0 +1,18 @@
+entry: 4163
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:na
+f6:LMAdd_n7q
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:does this work
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4163.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:

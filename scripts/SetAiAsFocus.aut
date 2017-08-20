@@ -1,0 +1,15 @@
+; Ai Script
+; ==============
+;
+; OS:     Windows 9x/NT
+; Author: Piet Defoe
+;
+;Sets Ai focus
+WinActivate,Ai
+
+Exit
+
+
+
+
+[ADLIB]

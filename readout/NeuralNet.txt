@@ -1,0 +1,95 @@
+Neural Net
+Description of original program written and described by Boris
+NNtest2 is an experiment in Neural Networking. The network itself is simply an array. 
+The difficult part is training the network to do something useful. Research turned up 
+several training methods but I couldn't get my head around the maths, so I fell back on an 
+old idea: A Genetic Algorithm. First I'll describe the working of the Neural Net then the 
+Genetic training method. 
+
+The Neural Network is a group of 'cells' in a two dimensional array. 
+The columns of cells are called layers. The first (leftmost) layer is the INPUT LAYER. 
+The last (rightmost) is called the OUTPUT LAYER and the layer between is the HIDDEN LAYER. 
+The program as it stands only uses one hidden layer, so the NET has three layers all 
+together, but more hidden layers can be used should one be insufficient. 
+
+Each cell has several inputs, one from each cell in the previous layer (the layer to it's 
+left). In this NET each layer has five cells (called STACK in the program) so the NET is 
+three by five, 15 cells in total, and each cell has five inputs. The cells in the INPUT 
+LAYER differ from the others in that they no not use their inputs. They are manipulated 
+directly by the user. 
+
+Each cell also has one output. This output will always be 0 or 1. ZERO represents NOT
+ FIRED and it has no effect on cells using this as their input. ONE represents FIRED and
+ it will effect any cells using it as an input. 
+
+Each of the five inputs on each cell are assigned a 'weight'. This is a floating point
+ number between -1 and 1. A cells output is determined by summing the five weights 
+multiplied by their respective input values (taken from the previous layer). 
+If an input value is ZERO then obviously multiplying the weight by this produces ZERO. 
+If an input value is ONE, the result is equal to the weight. Once the multiplied weights 
+have been summed, if the result is positive then the cell has fired and the output of that
+ cell becomes ONE. If the total of the multiplied weights is zero or less, the cell does 
+not fire and it's output becomes ZERO. Each of the layers is processed this way to 
+determine the output values of the OUTPUT LAYER. 
+
+The trick to making a Neural Net useful is to get all the weights correct for a particular
+ function. Say I want to know if a number is prime or not, I could put the number on the 
+input layer, process the NET and read the answer from the output layer, assuming the weights 
+have all been set up correctly for that function. Setting up the weights is called training 
+the net. 
+
+If you should choose too, you could manually set all the weights to achieve a particular 
+function, but it's not practical for anything but the smallest net's with the simplest 
+functions. An alternative is to TRAIN the net using a set of data consisting of known 
+input/output pairs. In the case of prime numbers, the training set would be a list of 
+numbers, say 1 to 20, each with it's correct output (1=yes it's prime, 0=no it's not). 
+
+The program NNtest2 takes the training set from a text file called TRAIN.TXT which
+ contains pairs of binary numbers separated by a colon. The first number in the pair is 
+the input (or the question), the second is the required output (or the answer). 
+
+EG: 
+00001:00011 
+00010:00110 
+00011:01001 
+00100:01100 
+
+This training set teaches the net to multiply a number by three. The inputs (on the left) 
+are simply the binary numbers 1 to 4. The outputs (on the right) are the result of 
+multiplying the input by three. It is important to note that five bits have been used 
+because we are using a net with five cells per layer. If more bits are required then the 
+program needs to be changed to build a net with a higher STACK (more cells per layer). 
+
+The method I've employed to set all the weights to values that can reproduce the answers in
+ the TRAIN.TXT file is called a Genetic Algorithm. 
+
+Genetic Algorithms have been around since the 60's and represent a method of arriving at an 
+appropriate answer without having to tell the computer step-by-step how to get there. 
+There's plenty of info on the Internet. So I'll just describe the functioning of the 
+Genetic Algorithm as used in NNtest2. 
+
+First, a complete set of 100 possible net weight distributions is created randomly. Then 
+each weight-set (called a BRAIN in the program) is tested for fitness by putting the 
+TRAIN.TXT inputs into each brain-net, processing the net, and comparing the outputs to the
+ known outputs from TRAIN.TXT. Each brain is given a score according to how well the 
+outputs match, and the best ten are retained for the next generation. The remaining 90 
+brain slots are then filled with cross-breeds of this set of ten best scoring brains. 
+Each of the ten is bread with each of the others producing 90 new 'children' brains which 
+inherit parts from two of the best ten brains. This new generation, consisting of ten of 
+the best brains from the previous generation and 90 new 'child' brains, is then tested for 
+fitness again. When each 'child' is 'born' there is a small chance of mutation, a single 
+weight being generated randomly. This cycle repeats until the score of the best brain is 
+equal to the maximum possible score, which means the net is trained and any of the 
+TRAIN.TXT inputs, when put into the net, will produce the correct output! 
+
+Sometimes the process is quick and can take less than ten generations, sometimes it's slow 
+and can take hundreds. This is because no two solutions are the same and they arrived at 
+using randomness. 
+
+To use the program just create a TRAIN.TXT file and run the program. While the program is 
+#training, the best score, the percentage of the maximum this represents and the current 
+generation is displayed at the top of the window. The HIDDEN and OUTPUT layers are also 
+shown with their weights. When training is complete, a column of buttons will appear. 
+This column is the INPUT LAYER. Beside the column is displayed the OUTPUT LAYER. The user 
+can then try out different input combinations to test the net. Sorry for the basicness of 
+the interface. 

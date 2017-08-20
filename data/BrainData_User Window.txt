@@ -1,0 +1,1818 @@
+entry: 300
+f1: 10
+f2: 385
+f3: 500
+f4: 45
+f5:
+f6:ai_input
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<uwtextin><outtoin><clear>
+entry: 301
+f1: 10
+f2: 290
+f3: 500
+f4: 65
+f5:
+f6:ai_output
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<uwtextout>
+entry: 302
+f1: 670
+f2: 385
+f3: 340
+f4: 45
+f5:
+f6:url_input
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><uwtextin><activate cell:340>
+entry: 303
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:ai_output
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 304
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 305
+f1: 550
+f2: 275
+f3: 99
+f4: 24
+f5:
+f6:refresh_button
+f7:REFRESH
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<uwbutton><activate cell:933>
+entry: 306
+f1: 550
+f2: 300
+f3: 99
+f4: 24
+f5:
+f6:play_music_button
+f7:PLAY MUSIC
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<uwbutton>
+entry: 307
+f1: 550
+f2: 325
+f3: 99
+f4: 24
+f5:
+f6:stop_music_button
+f7:STOP MUSIC
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<uwbutton>
+entry: 308
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 309
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 310
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 311
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 312
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 313
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 314
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 315
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 316
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 317
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 318
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 319
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 320
+f1: 10
+f2: 5
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:user window text
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><words-ifa:DX Window><uwprint><activate cell:321>
+entry: 321
+f1: 340
+f2: 5
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:user window text
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><words-ifa:Image Window><uwprint><activate cell:322>
+entry: 322
+f1: 10
+f2: 265
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><words-ifa:Output box><uwprint><activate cell:323>
+entry: 323
+f1: 10
+f2: 360
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><words-ifa:Input box><uwprint><activate cell:324>
+entry: 324
+f1: 670
+f2: 5
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><words-ifa:Browser Window><uwprint><activate cell:325>
+entry: 325
+f1: 670
+f2: 360
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<clear><words-ifa:URL Input box><uwprint>
+entry: 326
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 327
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 328
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 329
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 330
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 331
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 332
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 333
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 334
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 335
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 336
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 337
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 338
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 339
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 340
+f1: 670
+f2: 30
+f3: 340
+f4: 325
+f5:
+f6:uw_browser
+f7:zip
+f8:http://www.raisystems.com/spud/spudai.html
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:<uwbrowser>
+entry: 341
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 342
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 343
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 344
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 345
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 346
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 347
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 348
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 349
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 350
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 351
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 352
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 353
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 354
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 355
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 356
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 357
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 358
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 359
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 360
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 361
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 362
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 363
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 364
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 365
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 366
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 367
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 368
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 369
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 370
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 371
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 372
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 373
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 374
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 375
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 376
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 377
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 378
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 379
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 380
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 381
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 382
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 383
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 384
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 385
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 386
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 387
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 388
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 389
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 390
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 391
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 392
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 393
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 394
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 395
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 396
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 397
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 398
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 399
+f1: 0
+f2: 0
+f3: 0
+f4: 40
+f5:BulkWrite
+f6:bulkwrite
+f7:300
+f8:
+f9:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\data\BrainData_User Window.txt
+f10:400
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 400
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:
+wmv01:
+wmv02:
+wmv03:
+wmv04:

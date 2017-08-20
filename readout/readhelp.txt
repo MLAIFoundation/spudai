@@ -1,0 +1,595 @@
+Ai by Piet Defoe 11-08-2004 all rights reserved...
+
+Ai stands for Artificial intelligence. The Ai takes the inputted sentence and 
+translates the words. How the words are interpreted depends on the information 
+in the files 'FirstInput.dat', first input and 'TranslationFile.dat', 
+translation file.
+
+When you have typed something into the input the Ai looks at the sentence and 
+compares the words with words in the First Input file. If a word is found then 
+the group number followed by the word will appear in the readout above the input 
+box, if a word in the sentence is not found in first input then a 0 will appear 
+in front of the word. Words with a 0 group are then looked for in the 
+translation file'. If a word is found in first input then it would not be looked 
+for in the translation file. If 0 rated words are found in the translation file 
+then the Ai uses the information to create an answer and carry out any tasks 
+that the sentence may contain.
+
+Pre set words
+Pre set words are words embedded in the program used to control Ai settings via 
+the input
+(Case sensitive)
+EXIT 	= shuts down the Ai
+RESTART = restarts the Ai
+autoinputon	= turn on automatic input	
+autoinputoff	= turn off automatic input
+d1CheckBox13on and d1CheckBox13off control check box 13 in settings this enables 
+a remote order to be acted on when the automatic input is turned off, turning 
+off auto input also prevents network order from working as this function puts 
+the order into the Ai input.
+
+FirstInput.dat 
+This file groups certain words in sections i.e. start command words are in-group 
+2 and questions are in-group 3. Changing the contents of this file should be 
+done carefully as the program understands the difference between the groups. The 
+4 stars indicate a group and the length of each group including the stars must 
+not exceed 254 characters 
+As the TF grows we are finding that we are removing words sometimes this method 
+of translating seems to get in the way then other times its seems like a very 
+reliable and simple method which has its uses.
+
+TranslationFile.dat 
+This file contains detailed information about a word and instructions for the Ai 
+to carry out abbreviated to TF
+
+1. Translation Mode
+sets how the sentence is translated. This is used to change the translation 
+method once the Ai has reached the TF routine (After Preset words, Fi, etc...). 
+Usually set between 0 and 4. 
+0to4=Ai uses the usual TFroutines to translate which is: FirstPassTF, 
+SecondPassTF maybe ThirdPassTF and maybe FourthPassTF, if more than 5 then the 
+Ai will use FirstPassTF, FithPassTF, maybe ThirdPassTF and maybe FourthPassTF 
+thus replacing  SecondPassTF with FithPassTF. SeconPassTF  does a lot of the 
+translation processing. This means that the functionality of the Ai can be 
+increased as a word in the sentence can get the Ai to translate in an entirely 
+different way. The first function using this method is 'Translate'. 
+5=translate, in the TF the word 'translate' has field 1 set at 5 and the 
+translation routine FithPassTF is used. This translation method replaces the 
+word found in 6 with the word/s in 7 and adds the word/s to the output without 
+the first word, which held the code to change the translation Mode. In this case 
+'translation' was the word and in TF 1 is set at 5. 
+6=looks for the sentence word in field 12 and then builds up the output from the 
+words in 6. This mode uses the last word found so the words in the description 
+will be the most recently added. The number of times words are found means that 
+an output will always be generated, though this output will be random and be 
+void of intellectual translation. Having said that structures could occur as it 
+all depends on the information in the TF and how that information is stored. 
+7=puts input into output, the way it works is to replace the Ai output at the 
+time of sending the output to the read out / say print routine with the inputted 
+text this means that if the mode is changed to 7 any ware in the sentence the 
+whole of the input is put in and all processing is ignored. NOTE changing to 
+mode 7 does not stop processing of the input by the Ai it replaces the Ai's 
+output with the input. As most of the processing is controled by the mode then 
+this shouldent cause any problembs but if you change to mode 7 halfway through 
+the sentence then every thing prior to the change will be processed in the 
+normal way including system commands and puting in to input. This could be used 
+to override the Ai output but keep the instructions of the Ai intact e.g. open 
+help " i am opening help for you. This will open the help file and read out i am 
+opening help for you
+8=learning mode, when a B secntence code numonic is found, then the dictionary 
+is checked for the word. If the word is found in dictionary.txt then the word 
+and is, is put into the input, the timer turned off whilst awating the 
+discription of the word to be typed in. Then press ok. The user dictionary is 
+also checked and if the word is found in this then the word is ignored, this is 
+so abreviations or incomplete, badley spelt words etc. dont start cloging up the 
+translation. Bad words should rearly be cleared out of the TF but full stops 
+commers if directley next to a word can turn the word bad as a space is needed 
+each side of the word to define it to the translation routines, its quite easy 
+for bad words to slip in. There is no reason for not adding the words to the TF 
+but i prefer to clean up the bad words manually, im not shure if this will 
+become more of a problem. 
+As well as looking in the dictionary for words this routine also looks for words 
+with no type defined ie. field 4 in TF = 1 or 0. The TF is opend usually in the 
+right place then chang field 4, look in this file for the word type code, there 
+are many word codes not just nouns and verbs, you can add your own word codes. 
+The more varied the word codes the better the translation of the sentence code. 
+There may be a limit or 180 different possable word codes as the number 
+corisponds to the character map. The word code describes the word as a type ie. 
+noun, verb, name, statement, number etc. At this time 01-01-2005 i have defined 
+47 word codes
+
+2. Command, 
+activates a system conommand used to run another program, read a file or show a 
+picture. System commands need a command word (group 2) before they will work ie. 
+'open notepad' will work and notpad will open but 'notepad' on its own wont do 
+anything. 		
+1=System on 9, 		full path c:\allwork\AiNew\data\FirstInput.lnk in 9
+put output text into 10 and extra system commands into 5 look at netview for an 
+e.g.
+2=copy 9 To 10 
+3=show pictures on 9 pictures in ..\Ai\image\
+10=delete file in 10 full path
+
+3. Field 
+3 is a bit like 2 but instead of performing system commands its used to carry 
+out functions like combining files and creating html web pages. You need a 
+function word to activate the function, line 18 in FI
+0to2=unused,  
+3=reply with 8 no function command need for 3 but you do need a function word 
+before any of the following will work look in firstinput.dat 
+4=read file on 10 		..\Ai\readout\
+5=read file on 10 full path, 	e.g. c:\allwork\ainew\readout\readouttest.txt
+6=read file in 10 into input 	full path e.g. c:\allwork\ainew\readout\order.txt
+7=read file in 10 full path using long file routine. There is a max charater 
+limit set at 20000 if the text has 255 charaters before a return then a gpf may 
+be caused due to variable overload, this is unlikley to happen and would 
+probabley only occur if you were trying to read a file that wasen't a normal 
+text file. 
+8=like 7 but looks for file in readout directory 
+9 to 19 unused
+20=create html, this turns the file in 9 into a HTML file so it can be read by a 
+browser like internet explorer.It works by sanwiching the file in-between two 
+other files which carry the html formating, the lengths of the files needs to be 
+specified so you can use normal web pages that work but still be able to chop 
+off at the point required for insertion of the file. Field 10=html output file, 
+8=top of file, 11=bottom of file 7=top file length length of file in 8, 
+12=bottom file length of file in 11
+21=put output between two files same as file 31 TF but using this means you dont 
+need to alter File 31 TF which is the Ai default. Make sure that 3 in 31 is set 
+to 21 !. 
+22=put field 9 in-between the two files
+23=same as 21 but if there is anything in 9 then it is added to the buguining of 
+the output
+
+At the moment there is no gosub to the createHTML routine when 20 in field 3 is 
+found. This means that the HTML page is only created if Create HTML is ticked in 
+settings. Having it like this means that only one page can be created at a time 
+reducing funcinality for program stability, this method of web page creation is 
+being tested and might change.
+
+4. what is the word type how should the Ai interpret the word. The Ai has a 
+variety of different methods of translating the sentence every time the Ai goes 
+through one of these routines the Pass value is increased and is displayed at 
+the top of the window. The routines use the information on the word to determine 
+the train of thought ie. when a Noun is found then it is assumed that the verb 
+in the sentence is refering to the found Noun. 
+	Grooping number. The Sentence Code variable is set acording to the words 
+type a word in the TF that hasent been set will have a value of '[' in the 
+Sentence Code and if it is 1=more info required, then the Sentence Cade numonic 
+will be '\'. The first input file is checked first and all words with a capitol 
+letter have been found in the first input file (firstinput.dat) im not sure how 
+many numonics are avaliable i was still coming up with different charaters at 
+255 . The idea of the numonic is to groop the words and to have more than 255 
+groups would sugest the need to have sub groups this level of complexity is not 
+rearly relevant at this stage of development.
+
+Fi and TF Codes
+Mnumonic only capitols in Fi
+----| Number
+----------| Word type	
+
+C	1	UNUSED
+D	2	start command
+E	3	question
+F	4	UNUSED
+G	5	find
+H	6	you your referance
+I	7	compliments polite words curtious words
+J	8	sware words rude words bad language
+K	9	small words one or two letter words is, i, ip, etc...
+L	10	programs
+M	11	UNUSED
+N	12	animals
+O	13	discribe, translate
+P	14	equal type words
+Q	15	stop commands exit finnish etc...
+R	16	is means
+S	17	ok and yes
+T	18	read speak
+U	19	UNUSED
+V	20	UNUSED
+
+TF codes
+
+[	0=more info required 	dont use for translation 
+\	1=more info required 	dont use for translation 
+]	2=Noun 			the last noun in a sentence is the main focus
+^	3=Adjectiv 	
+_	4=Verb 			connects with the Noun found
+`	5=Adverb 		
+a	6=Pronoun 		
+b	7=Article 		
+c	8=Conj 			
+d	9=Int 			
+e	10=plural
+f	11=pronoun
+g	12=abbreviation
+h	13=prep
+i	14=past
+j	15=singular
+k	16=prefix
+
+o	20=createreply activates an internal routine in the program (NOT WORKING)
+p	21=might be what 20 is ment to be needs checking
+r	23=name no longer 1=3 its changing if you dont set then sentence code wont 
+no that your talking about a name look below for more name info
+s	24=absolute order forces a command like copy if a file exists then by 	
+	default it wont be overwritten but if this is 24 then it will
+t	25='are' from first input (this might change)
+u	26=order to another computer
+v	27='ta' from first input (this might change) also 'ta' is used to launch 
+Text Aloud so its quite important that it works so it probabley merits 
+having its own code
+w	28=net or network
+x	29=verb and noun, multiple meaning
+y	30=verb, noun and adjectiv multiple meaning
+z	31=verb and adjectiv
+	32=sentence code
+	33=test word
+	34=adjective and noun
+	35=noun and plural
+	36=number
+	37=past and past part
+	38=poss pron
+	39=varient
+	40=special character or word maybe a code
+	41=weard un describable word
+	42=statement
+	43=adjective and colloq
+	44=pres and part
+	45=does weard stuff
+	46=past part
+	47=symbol
+	48=predicted adjective
+	49=3rd sing. present 
+	50=attrib, adj
+	51=demons, pron
+	52=noun and pron
+	53=slang or word used in texing like errr or L8 for late etc.
+	54=plus + (used to send comands to calculator)
+	55=minus -
+	56=devided by /
+	57=times *
+	58=commandwhat
+	59=autoit script
+60=patten that might be found in a sentence code looks in sentence code for 
+patten used in TFsub01 look in Patten paragraph for more
+	61=one letter word like e.g. 'a'
+	62=function request so you don't need a function word bypass it
+	63=animal
+	64=sware word
+	65=chemical symbol
+	66=course, slang, noun
+
+5. create reply referance or extra System command, usually set at 'na'.If not 
+'na' then CreateACommand is set with contents as long as field 2 is set at 0. 
+The contents of CreateACommand are compared with key words that trigger pre 
+programed commands embeded in the program keywords are:
+
+NameFound usually set by the value in 1 changed name set by 4
+stopnetwork	switches off network message and network order
+startnetwork switches on network message and network order
+putininput puts the contents of 8 into the Ai input, (2 must = 0 err why..??)
+put9ininput puts the contents of 9 into input used for long strings
+writetofile puts the contents of 8 into the filename on 9
+aion turns on ai output
+aioff turns off ai output NOTE this only turns off the Ai's response it doesn't 
+switch off functions opening files and programs
+cleartoprint clears the ToPrint var which is what is sent to the output
+EXIT shuts down the Ai
+autoinputon	turn on automatic input,grabs text after you'vre finnished typing
+autoinputoff turn off automatic input so you have to press ok to put into input
+doesfileexist checks to see if the filename in 9 exits if yes read response in 7 
+if no read response in 8
+iffileexist	if filename in 9 exits put 7 into input if not put 8 into input
+autoit autoit.exe must be in the path and .aut associated to it, then 8=autoit 
+script to run, 7=reply if script found. Note this performs a system command on 8 
+and looks in the scripts folder so file extension associations apply, this is 
+another way of performing system commands here its used to activate autoit 
+scripts
+ReadControlTF resets the first 40 entries in TF things like time, date etc.
+sendscreen sends the left hand screen as a picture using UDP at mo very slow and blotchey
+sendtobrowser sends commands to the browser program, sends contents of field 10 to URL bar
+filetoinput reads the file in 9 into input sentence by sentence every timer loop. The 
+document should be a text doc with a return less than every 256 characters other wise the 
+string variable will cause a GFP. If a GPF is caused paste the document into notepad, turn 
+off world wrap and press return at the end of the line. The mode used to translate the 
+input is the same as Auto Ai, field 1 in entry 32. 
+	
+Field 5 is also used for extra system commands EG. If 2=1 then the full path of 
+the file to load into the program. e.g. if 2=1 & 9=notepad.exe & 5=c:\text.txt 
+then the text file in C: will be opened in notepad
+
+6. words that require a response ie. Word were looking For more info on 
+words in the sentence with a 0 group
+
+7. Mixed use used by mode 5 the translation of 6 used also for different things 
+needing extra information
+
+8. Mixed use but mainly used by commands set in 5, pattern and reply with 8
+
+9. File commands, run system file, open name file, etc... look at 3 for more 
+details
+
+10. Mixed use mostley used for extra file commands and creating html files
+
+11. Used mostley by pattern recognition or for holding extra information
+
+NoSTM No Short Term Memmory, this is used to tell the short term memory scan 
+routine not to use the word when trying to work out what we are talking about
+
+12. dictionary discription of Word. Used when question and is ie. what is 
+notepad will triger 12 to be sent to the output. Also used for cross refrencing 
+Nouns and Verbs, generating random inputs and creating an answer no matter what 
+by going deeper and deeper for some simalarity (NOT QUITE WORKING)
+
+Settings
+The top edit box is the full path to the network message file. 
+The first line of this file is sent to the Ai output when 
+'Check network messages' is ticked. 
+Network Net IN If 'Check network order' is checked then the first line of the 
+file must contain the password found in the 'Password' box if the same then the 
+second line in the file is put into the Ai input. If the instruction is the same 
+as the previous one then it won't be caried out, you can carry out repeate 
+instructions using 7, look at 'order' in the Translation file. If the password 
+is incorrect and 'Check network messages' is ticked then the incorrect password 
+is sent to the output. 
+The message file is a text file created in notepad or any text editor the Ai can 
+read the file over the network. If you can open the file from 'Network 
+Neighborhood' on your computer then the Ai can also read it, NOTE if the Ai is 
+trying to read a file on another computer over a network and the network is down 
+then the Ai will develop a short lock whilst it tries to find the file, this is 
+normal but can be weard if your trying to press a button. Reading files over the 
+internet has not been tested but should also be possable (using UDP would 
+probabley be better) If a message file can't be found then the message 'No 
+network message' will appear under 'Checking for a network message'.
+'Create HTML file using info in field 31 TF' if ticked a HTML file (web page) 
+can be created. The routine puts the contents of field 7 at the top then the 
+text in the file netIN found in settings, then the file in 8 at the bottom 
+9=output file name 10=number of rows in the top file and 11=number of lines in 
+bottom file  
+delete message after reading also allows overwrites of webpages. Because the 
+network message routine only reads the first two lines of a network message 
+file, if the file isen't deleted then any new messages wont be read as they are 
+added to the end of the file. This also performs a deletefile command on a new 
+webpage being created to ensure the file is created 
+Flash icon 18 in TF flashes a icon on a remote or local desktop info in 18 in TF
+Set focus on Net msg Sets the focus on the Ai when a new network message is 
+received
+Learning routine
+Auto Ai using info in entry 32 TF
+Log activity
+Surpress Ai output
+Del msg aft reading
+Show word codes
+Disable automatic input
+Show web browser
+Keep on top, Keep active
+
+Net IN network in, the full path of the network message or order if on another 
+machene use two \\ e.g. if were looking for a message in temp on dell-boi the 
+full path is \\dell-boi\temp\aimsg.txt sharing or access must be allowed so the 
+ai can read the file if not allowed no network message will be displayed
+Net OUT network out, writes the input into the file if the file already exists 
+then the file is overwritten. If '.htm' is found in the Net OUT filename then 
+the output file is converted into a html (web page), using the information in 22 
+in TF. 11=number of lines to copy, 9=location of top part of html doc, 10=output 
+file name, both full path
+Image this is the name of an image file in ..\Ai\image\ the name of the current 
+image is displayed and the name is saved when the program is closed.
+Password the password required before a network order will be caried out
+Timer length milisec the main system timer controls how long to wate before 
+putting text into input
+Learning file length or short term memory if set at 10 then the last 10 inputs 
+are remembered and if a repeat patten found then the patten is put into the TF
+Timer Loop this is the extra loop for things like clearing the screen the 
+variable is increased by one each time the timer activates when the timer loop 
+value is reached then the extra commands are activated
+UDP UDP varables are defined otherwise the program skips UDP varable setup and 
+saves some resources. UDP is a protacol simular to TCP and works on ip networks. 
+UDP is a cruder way of transmitting data over a network and doesen't have the 
+same error checking as TCP it is a lot faster and is used for things like 
+streeming media. The Ai uses UDP inorder to maximise the funcinality of the 
+network communication. 
+Send to ip the ip number of the computer the other Ai you are communicaing with 
+is on
+Remote Ai password the password of the Ai you are trying to communicate with, 
+messages still get through but any extra commands are rejected
+Receive from ip the ip number of your computer the local machine in-coming 
+communications are sent to this ip number
+Port All Ai's must use the same port number. Use a port number that no other 
+program on the computer is using. Avoid common ports e.g. web browsers use port 
+80 and many other programs use ports. I use a port number higher than 10000. 
+Firewalls will also block access to the network if you get a pop up message 
+saying do you want to let Ai access the network then this is the firewall asking 
+if its ok for the program to access the net click yes to enable communication 
+click no to stop the process.  If * Make Rx socket will appear for as long as 
+messages cant be received a firewall blocking access will do this. Receiving is 
+passive so you may need to type in something for the send routine to open the 
+socket again more applicable with a firewall. UDP settings changed cause an Ai 
+restart to make sure the new setting initialize correctly 
+
+
+UDP status is the present status 0 or higher when receiving or transmitting 
+usually at -1 which indicates no network activity at this time. 
+If TX: <Ai output> appears and the UDP status and code don't change then there 
+is a problem sending the message, a firewall blocking the message will do this. 
+Password is either YES or NO if the Ai password has been found in the incoming 
+packet usually NO until the password has been found.
+Entry 9 TF, Field 9 is used to add extra codes to the string that is sent 
+PII: = Put In Input, puts the output from the local Ai into the input on the 
+network Ai which will then be processed by the remote Ai in the usual way.
+PIO: Put In Output, puts the local Ai output into the Say-print routine on the 
+remote Ai.
+PIC: = get pic data (not fully tested not the best code in the world!!)
+
+
+Log activity
+This switches on logging a new log is created each day with the file name being 
+the date stored in ..\Ai\logs\  the name of this log is put into the translation 
+file under 'log' when the program starts. The input, output, date, time and 
+reply quality are put in the log. Reply quality is a value between 0 and 5. This 
+is what the Ai thinks is the quality / how good the reply is 0=no reply 3=the 
+best at the moment. If a routine finds a good answer then it will set reply 
+quality to say 3 which stops other routines from translating the sentence 
+more.(NOT ALL ROUTINES ARE ONLINE YET SO ZERO RATINGS ARE STILL PRODUCED)
+SC: = sentence code
+RQ: = reply quality
+Auto Ai puts a random input taken from 12 in a random file uses info in file 32 
+field 2 = the random number max so don't make this number higher than the max 
+length of TF, if the random number generator produces a number bellow 40 the 
+then file number 33 is used if 2 is set to 32 then field 8 is put into the input 
+text box instead of the usual which is 12
+Suppress Ai output
+Prevents the Ai's output from getting to the speech and print buffer but all 
+other Ai routines still function
+Del msg aft reading
+Delete the network message after reading
+Show word codes
+Displays the inputted words and associated word codes in the mini display
+Disable automatic input
+Stops text being written into the input being put automatically into the input
+Show mini display
+Shows mini display, which is also used to show pictures
+Keep on top, Keep active
+On Timer Loop activates the program SetAiAsFocus.exe which tells the computer to 
+set focus to Ai
+Window this shows the window position if you move the window and want to retain 
+the settings then you need to open the settings dialog to write the window 
+coordinates to the setting file
+
+TF
+Things in or about the translation file hear after know as TF or tf
+The TF holds almost all of the instructions for the Ai. This is so it can 
+increase its funaciality by the amount of input received. At the moment the TF 
+can only be updated manually, the original version had an automatic mode which 
+produced random inputs, these inputs with there translations are still in the 
+file and you might want to change them delete them etc. 
+
+Some fields are set in place by the ai like the computer name is put into number 
+3 and can be accessed by looking under name. 17 to 30 in TF are used by the 
+pattern recognition and word codes routines. 
+1 holds length of TF
+2 location and name of today's log
+3 computer name written by name uses the present computer name set up in network
+4 date 
+5 bad word response uses 8 puts bad word at end i.e. i dont unbderstand the word
+6 start-path
+7 help file location
+8 not-user (have lost the info on this it might be obsolete)
+9 UDP extra codes for sending in 9 PII: = Put In Input PIO: Put In Output
+16 used to control Ai font defaults, box 1=size 10 point, 2=weight 300, 12=name 
+Courier New. Only effects program when it's restarted
+17 used to hold location of desktop in 9
+18 flash icon on desktop info in 9 in 18 as it says in settings fields 9 and 10 
+used 	field 9 is the name of the icon and must be in the root Ai folder. The 
+shortcut is copied to the desktop folder on the other computer then deleted thus 
+it flashes
+20 – 30 used by pattern recognition 
+31 used by create html
+32 Auto Ai control file only used if Auto Ai is checked in settings. 1=mode, 
+2=Top random file to include, 3=when B is found if 0="what does " + string5[c] + 
+" mean " if 1=no response to a B, if 3=read out 8 
+34 used by Output to file Net OUT 9 put in front of output 10 put after input 
+used to encode for html only works when create html checked in settings
+35 used by short Term Memory STM if word is a noun sanwitch between 8 and 9
+36 used by short Term Memory STM if word is a verb sanwitch between 8 and 9
+37 word found in STM and TF but its not a verb or noun sanwitch between 8 and 9
+38 word found a few times in STM but not in TF ie. I don't know what it means
+39 STM-reject is words rejected from the Short Term Memory scan. Words in field 
+11 are excluded from the STM scan there must be a space on each side of the word 
+for the word to be recognized.
+
+The TF controls a lot of functions and how things work is dependent on the 
+correct info in the TF. It's a good idea to make a backup when you first get the 
+program so you can use it as reference on how to make instructions work. 
+The TF is backed up every day with the backup file given the day name, as the 
+extension e.g. 'TranslationFile.Mon' is Mondays translation file, the file is 
+overwritten the next week. The Ai will still work even if the whole of the TF is 
+blank but it wont is able to do much. The Ai wont run without a TF that it can 
+write to, that's why it wont run off a cd without copying to the hard drive, 
+this could change if it was needed I suppose, but without the TF the Ai is lost, 
+its a bit like losing your memory totally....!
+  
+Cls = clears the screen by loading in cls.jpg in the image folder if the pic 
+isn't there then nothing will happed no error message unless you set an answer 
+try it. Set box 3 to number 3 (if 3 reply with 8) and type what you want the 
+reply to be into box 8.
+
+Reading out a file
+	If you have more than 255 chars in a line then you will cause a gpf in the 
+Ai as the variable overflows. This has been left like this for now to enforce a 
+limit on the size of the input, this will probably change when checks have been 
+added to some of the translation routines to stop them from having a seizure.
+
+Sentence code
+	This routine assigns each word in the sentence with a mnemonic (a letter, 
+number or other character). Words found in the first input file are assigned 
+with a capitol letter 
+e.g. E is the mnemonic for a question word, B is the mnemonic for a bad word. 
+Lower case mnemonics are set by using the TF the number in field 4 in the TF is 
+translated into the mnemonic. If a paten is found in the inputs received then 
+the paten is written into the TF into field  6, thus when the paten is search 
+for then the paten can produce a response or be used and processed by all the 
+routines using the TF. The translation from the mnemonics is set at a low 
+priority when the reply is being processed. This means that the answer from 
+paten recognition is used when no more preset answer could be found. NOTE if the 
+mnemonics are only made up from words in the firstinput i.e. nothing recognised 
+in the TF then the answer suffers a delay. If nothing is found in the TF then 
+the normal routine is bypassed and the answer is put into memory for processing 
+by another routine, which may or may not send the response to the output 
+depending on what else is going on with the inputs and outputs. The response 
+acquires a weight which is balanced by other answers with the highest sent to 
+the output this doesn't mean that the answer is lost as it may take precedence 
+as other replies are used. When the data file loops then eventually the answer 
+will be lost.
+
+More on names
+	If field 4 in TF is 23 then a Name has been found and the Name routines 
+are used.
+Field 9=Name file usually .dat extension in ...\Ai\name\ folder, 7=response 
+10=name type i.e. student. 
+If the name type is student then the student routine is used. This routine at 
+this time has 3 sub commands, which can be used to create lessons 
+MESSAGEBOX: opens a message box with this text
+AIOUTPUT: sends words to the Ai output
+AUTOIT: name of script to run in ...\Ai\scripts\ opens an Auto It script, which 
+can do many things, see the Auto It help file in the data folder see below for 
+more on Auto It and how it is used by the Ai  
+
+Patten Code
+After the Ai has translated the input and got as far as the end of Creat A Reply 
+routine if it still has no answer then it goes into the next stages the first 
+being Patten recognition. This uses other varables to create answers depending 
+on what patterns have been found in the sentence field. A patten is defined by 
+field 4=60, if so then the Patten routine uses fields 7,8,9 and 11 in its own 
+uniuqe way the output uses the values to create the output structure. Field 
+7=first part of output 8=seconpart 9=used if not enough information ie. No verbs 
+or nouns found. Field 11 controls which word type is used in the answer 
+If 11=2 use the noun and what's in that words field 11
+If 11=3 use the Adjectiv
+If 11=4 use the verb and what's in the verbs field 11
+If 11=5  use the Adverb
+If 11=2+4 use the noun and the verb that are in the sentence
+If 11=40 then the words after the pattern words are sent to the output
+
+Short term memory (STM)
+The STM is some times refered to as the Data Store. The length of the STM is set 
+in the box called Learning file length in settings. The number is the number of  
+previous inputs to remember and refer to when looking for repeat occourances of 
+words when trying to work out what we are talking about. The word is first 
+looked for using the Subject routine, if no match is found then the TF is 
+searched. TF entries 35 to 38 are the various default outputs if nothing is in 
+field 11 of the word found most in STM. If SKIP is in 11 then the word is 
+ignored, if NoSTM is in 11 then the previous word is used.
+35=STM noun
+36=STM verb
+37=Word found in STM and TF not a noun or verb
+38=Word in STM but not in TF
+
+Subject
+The Subject routine attempts to work out what subject the conversation is about. 
+The most frequently found word in the STM is compaired against key words that 
+define the subject. There are 30 subjects at this time entries 41 to 71 TF are 
+used for subjects. Field 11 holds the key words and the response if a word is 
+found is in field 8 

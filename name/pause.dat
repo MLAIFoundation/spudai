@@ -1,0 +1,5 @@
+pause
+pause
+yes
+MESSAGEBOX:PAUSE press ok to continue
+END:

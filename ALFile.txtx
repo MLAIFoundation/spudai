@@ -1,0 +1,35 @@
+wordweb developer sql demo
+lookup results for thing
+noun thing1.
+a special situation
+2.an action
+an artifact
+an event
+..5.
+a statement regarded as an object
+can you say such a thing6.
+any attribute or quality considered as having its own existence
+..7.
+a special abstraction
+8.a vaguely specified concern
+an entity that is not named specifically
+a special objective
+a persistent illogical feeling of desire or aversion
+she has a thing about him12.
+a separate and selfcontained entity
+output generated from sql tables using
+select word,name,senseno,definition,example from wordsenses as w left join examples using wordsense,
+definitions,wordtypes where equivwordthing and definitions.
+idw.id and wordtypes.wordtypew.wordtype order by binary word,w.
+wordtype,senseno
+synonymsaffair, matter
+output generated from sql tables using
+select distinct w2.word,w2.
+wordtype from wordsenses as w1,wordsenses as w2 where w1.
+equivwordthing and w1.idw2.id and w1.
+wordsensew2.wordsense order by w2.wordtype,w2.
+word
+derived forms things plural
+output generated from sql tables using
+select derivation,word from derived,derivedtypes where root  thing and derived.
+derivedtypederivedtypes.derivedtype

@@ -1,0 +1,1 @@
+Open Windows Explorer by typing, open explorer into the input or clicking on icon on desktop. Goto Network Neighborhood and click on the pluss. The computers connected to you will appear on the right.

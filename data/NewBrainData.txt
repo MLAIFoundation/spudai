@@ -1,0 +1,3544 @@
+entry: 4162
+f1: 0
+f2: 0
+f3: 0
+f4: 32
+f5:na
+f6:E%R2
+f7:
+f8:
+f9:
+f10:
+f11:E%R2  is the sentence code for, what day is it
+f12:what day is it
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4162.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4163
+f1: 0
+f2: 0
+f3: 0
+f4: 32
+f5:na
+f6:E%R2
+f7:
+f8:
+f9:
+f10:
+f11:E%R2  is the sentence code for, what day is it
+f12:what day is it
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4163.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4163
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:na
+f6:LMAdd_n7q
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:how does the ai work
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4163.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4165
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:gap
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a conspicuous disparity or difference as between two figures
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4165.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4166
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:know
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the fact of being aware of information that is known to few people
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4166.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4167
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_know
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4167.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4168
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_things
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4168.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4169
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_can
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4169.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4170
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_you
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4170.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4171
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:latest
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the most recent news or development
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4171.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4172
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:synthetic
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a compound made artificially by chemical reactions
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4172.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4173
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_synthetic
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject four is about the Ai
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4173.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4174
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:bot
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:botfly larva typically develops inside the body of a horse or sheep or human
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4174.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4175
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_bot
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject four is about the Ai
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4175.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4176
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:ro
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:an artificial language for international use that rejects all existing words and is based instead on an abstract analysis of ideas
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4176.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4177
+f1: 0
+f2: 0
+f3: 0
+f4: 4
+f5:na
+f6:operate
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:direct or control projects, businesses, etc.
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4177.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4178
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_operate
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4178.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4179
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_good
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4179.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4180
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_there
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4180.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4181
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_but
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4181.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4182
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_reason
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4182.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4183
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:url
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the address of a web page on the world wide web
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4183.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4184
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:bounce
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the quality of a substance that is able to rebound
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4184.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4185
+f1: 0
+f2: 0
+f3: 0
+f4: 3
+f5:na
+f6:vacant
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:void of thought or knowledge
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4185.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4186
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_box
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4186.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4187
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_teach
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject five is the law
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4187.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4188
+f1: 0
+f2: 0
+f3: 0
+f4: 3
+f5:na
+f6:ectothermic
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:of animals except birds and mammals having body temperature that varies with the environment
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4188.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4190
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:shark
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4190.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4191
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_readstop
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject two translates as to do with the sea aquatic
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4191.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4192
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:spud
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:an edible tuber native to south america a staple food of ireland
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4192.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4193
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:spud
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:an edible tuber native to south america a staple food of ireland
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4193.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4194
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_spud
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4194.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4195
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_startup
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4195.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4196
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:faceoff
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a hostile disagreement facetoface
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4196.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4197
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:faceoff
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a hostile disagreement facetoface
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4197.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4198
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:turning
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the act of changing or reversing the direction of the course
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4198.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4199
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_face
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4199.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4200
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_faceoff
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4200.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4201
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_ils
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4201.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4202
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:image
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:an iconic mental representation
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4202.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4203
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_art
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4203.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4204
+f1: 0
+f2: 0
+f3: 0
+f4: 3
+f5:na
+f6:creative
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:having the ability or power to create
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4204.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4205
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:scan
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the act of scanning systematic examination of a prescribed region
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4205.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4206
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_image
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4206.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4207
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:scan
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the act of scanning systematic examination of a prescribed region
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4207.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4208
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:na
+f6:scan
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the act of scanning systematic examination of a prescribed region
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4208.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4209
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_scan
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4209.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4210
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:na
+f6:LM_say
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+wf:C:\Users\piet\Documents\allwork\programs\AiTemplate\FilesInZip\weights\4210.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4211
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_who
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4211.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4212
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:wei
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:any of several imperial dynasties of china ruling from 220 to 265 and from 386 to 556
+ic:
+wf:4212.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4213
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_very
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4213.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4214
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:you
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:second person pro
+ic:
+wf:4214.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4215
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:tell
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer according to legend an austrian governor
+ic:
+wf:4215.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4216
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_now
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4216.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4217
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_tell
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4217.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4220
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_checktrainfilescalibrate
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4220.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4221
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_checktrainfiles
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4221.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4213
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_wrote
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4213.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4214
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_program
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4214.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4215
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:nice
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a city in southeastern france on the mediterranean the leading resort on the french riviera
+ic:
+wf:4215.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4216
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:cool
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the quality of being at a refreshingly low temperature
+ic:
+wf:4216.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4217
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:cool
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the quality of being at a refreshingly low temperature
+ic:
+wf:4217.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4218
+f1: 0
+f2: 0
+f3: 0
+f4: 4
+f5:
+f6:warm
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:get warm or warmer
+ic:
+wf:4218.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4219
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_hot
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4219.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4220
+f1: 0
+f2: 0
+f3: 0
+f4: 3
+f5:
+f6:expected
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:considered likely or probable to happen or arrive
+ic:
+wf:4220.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4221
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_are
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4221.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4222
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_great
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4222.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4223
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_see
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4223.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4224
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_yes
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4224.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4225
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_need
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:your name is registered as a subject fifteen keyword  you are know to me
+ic:
+wf:4225.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4226
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_name
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:your name is registered as a subject fifteen keyword  you are know to me
+ic:
+wf:4226.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4227
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:ufo
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:an apparently flying object whose nature is unknown especially those considered to have extraterrestrial origins
+ic:
+wf:4227.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4228
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_open
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:your name is registered as a subject fifteen keyword  you are know to me
+ic:
+wf:4228.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4229
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:file
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a set of related records either written or electronic kept together
+ic:
+wf:4229.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4230
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_help
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:your name is registered as a subject fifteen keyword  you are know to me
+ic:
+wf:4230.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4232
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:something
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a thing of some kind
+ic:
+wf:4232.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4233
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_how
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4233.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4234
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:or
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a state in northwestern united states on the pacific
+ic:
+wf:4234.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4235
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:LMAdd_n3q
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:i feel good about how
+ic:
+wf:4235.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4236
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:LMAdd_n4q
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:by
+ic:
+wf:4236.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4237
+f1: 0
+f2: 0
+f3: 0
+f4: 5
+f5:
+f6:by
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:so as to pass a given point
+ic:
+wf:4237.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4238
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:stops
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits taken from a separate deck a
+ic:
+wf:4238.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4239
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_stops
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4239.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4240
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:outs
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:outputs 
+ic:
+wf:4240.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4241
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_file
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4241.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4242
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_read
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4242.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4243
+f1: 0
+f2: 0
+f3: 0
+f4: 5
+f5:
+f6:sometimes
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:on certain occasions or in certain cases but not always
+ic:
+wf:4243.nnt
+wmv01:
+wmv02:
+wmv03:
+wmv04:
+entry: 4245
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_feel
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4245.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4246
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:LMAdd_n7q
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:what happend to the network
+ic:
+wf:4246.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4247
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_happend
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4247.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4248
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rf:dd:ry:
+f7:
+f8:
+f9:
+f10:
+f11:refering <so:> does you 
+f12:how do you feel
+ic:
+wf:4248.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4249
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ma:ry:ls:
+f7:
+f8:
+f9:
+f10:
+f11:modify you suggestion 
+f12:are  you real
+ic:
+wf:4249.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4250
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:rt:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:question refering task refering <su:> subject 
+f12:what happend to the network
+ic:
+wf:4250.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4251
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:
+f7:
+f8:
+f9:
+f10:
+f11:me 
+f12:good i think
+ic:
+wf:4251.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4252
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dl:ma:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:location modify refering <su:> subject 
+f12:where are the fish
+ic:
+wf:4252.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4253
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:ma:dp:so:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject modify in object 
+f12:the fish are in the sea
+ic:
+wf:4253.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4254
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:dp:so:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject in object 
+f12:the fish is in the water
+ic:
+wf:4254.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4255
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:di:dp:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject describe in 
+f12:the fish is in the water
+
+ic:
+wf:4255.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4256
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:di:dp:so:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject describe in object 
+f12:the fish is in the water
+ic:
+wf:4256.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4257
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:di:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject describe 
+f12:the fish is swimming
+ic:
+wf:4257.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4258
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:swimming
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the act of swimming
+ic:
+wf:4258.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4259
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ai:
+f7:
+f8:
+f9:
+f10:
+f11:instruction 
+f12:suffixfind
+ic:
+wf:4259.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4260
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:di:dd:so:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject describe does object 
+f12:the fish is swimming
+ic:
+wf:4260.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4261
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dp:
+f7:
+f8:
+f9:
+f10:
+f11:in 
+f12:on tuesday go shopping
+ic:
+wf:4261.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4262
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:tuesday
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the third day of the week the second working day
+ic:
+wf:4262.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4263
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dp:su:
+f7:
+f8:
+f9:
+f10:
+f11:in subject 
+f12:on tuesday go shopping
+ic:
+wf:4263.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4264
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:shopping
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:searching for or buying goods or services
+ic:
+wf:4264.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4265
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_tuesday
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject two translates as to do with the sea aquatic
+ic:
+wf:4265.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4266
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dp:su:so:
+f7:
+f8:
+f9:
+f10:
+f11:in subject object 
+f12:on tuesday go shopping
+ic:
+wf:4266.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4267
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_suffixfind
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:subject two translates as to do with the sea aquatic
+ic:
+wf:4267.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4268
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dp:su:dd:so:
+f7:
+f8:
+f9:
+f10:
+f11:in subject does object 
+f12:on tuesday go shopping
+ic:
+wf:4268.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4269
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ro:su:di:dp:so:
+f7:
+f8:
+f9:
+f10:
+f11:refering <su:> subject describe in object 
+f12:the fish is in the water
+ic:
+wf:4269.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4270
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:dp:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:plural in refering <su:> subject 
+f12:its on the telly
+ic:
+wf:4270.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4271
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rf:ma:ry:tn:
+f7:
+f8:
+f9:
+f10:
+f11:refering <so:> modify you present 
+f12:ok how are you now
+ic:
+wf:4271.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4272
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:su:
+f7:
+f8:
+f9:
+f10:
+f11:subject 
+f12:frank debate
+ic:
+wf:4272.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4273
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:debate
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a discussion in which reasons are advanced for and against some proposition or proposal
+ic:
+wf:4273.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4274
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:dd:
+f7:
+f8:
+f9:
+f10:
+f11:me does 
+f12:i do
+ic:
+wf:4274.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4275
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ry:dd:aq:
+f7:
+f8:
+f9:
+f10:
+f11:you does question 
+f12:if you do what
+ic:
+wf:4275.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4276
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:ry:
+f7:
+f8:
+f9:
+f10:
+f11:question you 
+f12:what were you told
+ic:
+wf:4276.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4277
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:pod
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the vessel that contains the seeds of a plant not the seeds themselves
+ic:
+wf:4277.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4278
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:bay
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:an indentation of a shoreline larger than a cove but smaller than a gulf
+ic:
+wf:4278.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4279
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_think
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:Human types  these aliens are supposedly the forefather of humankind
+ic:
+wf:4279.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4280
+f1: 0
+f2: 0
+f3: 0
+f4: 3
+f5:
+f6:hungry
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:feeling hunger feeling a need or desire to eat food
+ic:
+wf:4280.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4281
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:ras
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the network in the reticular formation that serves an alerting or arousal function
+ic:
+wf:4281.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4282
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:exam
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a set of questions or exercises evaluating skill or knowledge
+ic:
+wf:4282.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4283
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:give
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:the elasticity of something that can be stretched and returns to its original length
+ic:
+wf:4283.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4284
+f1: 0
+f2: 0
+f3: 0
+f4: 4
+f5:
+f6:complete
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:come or bring to a finish or an end
+ic:
+wf:4284.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4285
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:gibberish
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:unintelligible talking
+ic:
+wf:4285.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4286
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_talk
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4286.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4287
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ma:ry:dd:su:
+f7:
+f8:
+f9:
+f10:
+f11:modify you does subject 
+f12:are you working
+ic:
+wf:4287.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4288
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ma:ry:
+f7:
+f8:
+f9:
+f10:
+f11:modify you 
+f12:are you wo
+ic:
+wf:4288.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4289
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:wo
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:instruction to stop
+ic:
+wf:4289.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4290
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rf:ma:ry:
+f7:
+f8:
+f9:
+f10:
+f11:refering <so:> modify you 
+f12:how are you
+ic:
+wf:4290.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4291
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dd:ry:su:
+f7:
+f8:
+f9:
+f10:
+f11:does you subject 
+f12:do you have a mind
+ic:
+wf:4291.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4292
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:dd:su:
+f7:
+f8:
+f9:
+f10:
+f11:me does subject 
+f12:can i have something else
+ic:
+wf:4292.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4293
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:tn:
+f7:
+f8:
+f9:
+f10:
+f11:question present 
+f12:what now
+ic:
+wf:4293.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4294
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:di:su:
+f7:
+f8:
+f9:
+f10:
+f11:question describe subject 
+f12:what is drumb
+ic:
+wf:4294.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4295
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:su:so:
+f7:
+f8:
+f9:
+f10:
+f11:subject object 
+f12:frank debate
+ic:
+wf:4295.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4296
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:rm:su:
+f7:
+f8:
+f9:
+f10:
+f11:plural me subject 
+f12:yes i got eyes
+ic:
+wf:4296.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4297
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ry:
+f7:
+f8:
+f9:
+f10:
+f11:you 
+f12:no say can you see
+ic:
+wf:4297.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4298
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dd:rm:aq:
+f7:
+f8:
+f9:
+f10:
+f11:does me question 
+f12:do i what
+ic:
+wf:4298.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4299
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dl:di:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:location describe refering <su:> subject 
+f12:where is the fish
+ic:
+wf:4299.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4300
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:su:
+f7:
+f8:
+f9:
+f10:
+f11:plural subject 
+f12:ho does a fish swim
+ic:
+wf:4300.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4301
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:ho
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:ho does a fish swim
+ic:
+wf:4301.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4302
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:su:so:
+f7:
+f8:
+f9:
+f10:
+f11:plural subject object 
+f12:does a fish breath air
+ic:
+wf:4302.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4303
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:
+f7:
+f8:
+f9:
+f10:
+f11:question 
+f12:why
+ic:
+wf:4303.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4304
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:su:
+f7:
+f8:
+f9:
+f10:
+f11:me subject 
+f12:i dont
+ic:
+wf:4304.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4305
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:su:so:
+f7:
+f8:
+f9:
+f10:
+f11:me subject object 
+f12:i dont know
+ic:
+wf:4305.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4306
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:rp:
+f7:
+f8:
+f9:
+f10:
+f11:question plural 
+f12:what does it keep
+ic:
+wf:4306.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4307
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:di:
+f7:
+f8:
+f9:
+f10:
+f11:question describe 
+f12:what what is
+ic:
+wf:4307.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4308
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:tn:
+f7:
+f8:
+f9:
+f10:
+f11:present 
+f12:and now
+ic:
+wf:4308.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4309
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:ma:ls:ry:rm:dd:
+f7:
+f8:
+f9:
+f10:
+f11:question modify suggestion you me does 
+f12:what are we talking about
+ic:
+wf:4309.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4310
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:dd:su:
+f7:
+f8:
+f9:
+f10:
+f11:plural does subject 
+f12:because its working
+ic:
+wf:4310.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4311
+f1: 0
+f2: 0
+f3: 0
+f4: 32
+f5:
+f6:E')&m
+f7:
+f8:
+f9:
+f10:
+f11:E')&m  is the sentence code for, why o output
+f12:why o output
+ic:
+wf:4311.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4312
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:
+f7:
+f8:
+f9:
+f10:
+f11:plural 
+f12:yes please
+ic:
+wf:4312.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4313
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ry:su:
+f7:
+f8:
+f9:
+f10:
+f11:you subject 
+f12:have you got a problem
+ic:
+wf:4313.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4314
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:di:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:question describe refering <su:> subject 
+f12:what is the solution
+ic:
+wf:4314.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4315
+f1: 0
+f2: 0
+f3: 0
+f4: 0
+f5:
+f6:feelings
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:feelings is emotions or senses that feel to touch 
+ic:
+wf:4315.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4316
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_feelings
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4316.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4317
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:style
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a particular kind as to appearance
+ic:
+wf:4317.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4318
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_egh
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4318.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4319
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:ca
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a state in the western united states on the pacific the 3rd largest state known for earthquakes
+ic:
+wf:4319.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4320
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:true
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:proper alignment the property possessed by something that is in correct or proper alignment
+ic:
+wf:4320.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4321
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_what
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4321.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4322
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_why
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4322.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4323
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ma:ry:su:
+f7:
+f8:
+f9:
+f10:
+f11:modify you subject 
+f12:are you a machine
+ic:
+wf:4323.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4324
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:ma:ry:
+f7:
+f8:
+f9:
+f10:
+f11:question modify you 
+f12:what are you
+ic:
+wf:4324.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4325
+f1: 0
+f2: 0
+f3: 0
+f4: 96
+f5:
+f6:are-what
+f7:
+f8:what are you
+f9:
+f10:
+f11:
+f12:the truly rich are those who enjoy what they have.
+ic:
+wf:4325.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4327
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:tell
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer according to legend an austrian governor
+ic:
+wf:4327.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4328
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_eyes
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4328.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4329
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:dd:ry:rp:su:
+f7:
+f8:
+f9:
+f10:
+f11:does you plural subject 
+f12:do you have eyes
+ic:
+wf:4329.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4330
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:plural refering <su:> subject 
+f12:its the result from my question
+ic:
+wf:4330.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4331
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:result
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a phenomenon that follows and is caused by some previous phenomenon
+ic:
+wf:4331.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4332
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_question
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4332.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4333
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rp:ro:su:so:
+f7:
+f8:
+f9:
+f10:
+f11:plural refering <su:> subject object 
+f12:its the result from my question
+ic:
+wf:4333.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4334
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_now
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4334.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4335
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:ro:
+f7:
+f8:
+f9:
+f10:
+f11:question refering <su:> 
+f12:what about
+ic:
+wf:4335.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4336
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_about
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4336.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4337
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:aq:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:question refering <su:> subject 
+f12:what was the question
+ic:
+wf:4337.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4338
+f1: 0
+f2: 0
+f3: 0
+f4: 32
+f5:
+f6:Em
+f7:
+f8:
+f9:
+f10:
+f11:Em  is the sentence code for, are you a machine
+f12:are you a machine
+ic:
+wf:4338.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4339
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:ai:su:
+f7:
+f8:
+f9:
+f10:
+f11:me instruction subject 
+f12:i want my question answered
+ic:
+wf:4339.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4340
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:su:rm:ro:so:
+f7:
+f8:
+f9:
+f10:
+f11:subject me refering <su:> object 
+f12:tell me about result
+ic:
+wf:4340.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4341
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:rm:ro:su:
+f7:
+f8:
+f9:
+f10:
+f11:me refering <su:> subject 
+f12:tell me about result
+ic:
+wf:4341.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4342
+f1: 0
+f2: 0
+f3: 0
+f4: 32
+f5:
+f6:SE(
+f7:
+f8:
+f9:
+f10:
+f11:SE(  is the sentence code for, ok what now
+f12:ok what now
+ic:
+wf:4342.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4343
+f1: 0
+f2: 0
+f3: 0
+f4: 32
+f5:
+f6:')m%
+f7:
+f8:
+f9:
+f10:
+f11:')m%  is the sentence code for, tell me about result
+f12:tell me about result
+ic:
+wf:4343.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4344
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:ry:ls:
+f7:
+f8:
+f9:
+f10:
+f11:you suggestion 
+f12:you sure
+ic:
+wf:4344.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4345
+f1: 0
+f2: 0
+f3: 0
+f4: 132
+f5:
+f6:LM_sure
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:
+ic:
+wf:4345.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4346
+f1: 0
+f2: 0
+f3: 0
+f4: 137
+f5:
+f6:tp:su:
+f7:
+f8:
+f9:
+f10:
+f11:past subject 
+f12:caused
+ic:
+wf:4346.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:
+entry: 4347
+f1: 0
+f2: 0
+f3: 0
+f4: 2
+f5:
+f6:thing
+f7:
+f8:
+f9:
+f10:
+f11:
+f12:a special situation
+ic:
+wf:4347.nnt
+wmv01:
+wmv02:<f:1>
+wmv03:
+wmv04:

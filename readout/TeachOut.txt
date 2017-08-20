@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>me how do to - Search results - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Special:Search" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Special:Search?search=me%20how%20do%20to" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%2Cspecial%2Cui%7Cmediawiki.skinning.interface%7Cmediawiki.special.search%7Cmediawiki.ui.button%2Cinput%7Cmw.PopUpMediaTransform%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Search","wgNamespaceNumber":-1,"wgPageName":"Special:Search","wgTitle":"Search","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Search","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgBetaFeaturesFeatures":[],"wgGatherShouldShowTutorial":true,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCirrusStartTime":1432123532.832,"wgCirrusEndTime":1432123533.1886,"wgCirrusElasticTime":354});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:a5c52c063dc436c1ca7c9f456936a5e9 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf5/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-Search page-Special_Search skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Search results</h1>
+						<div id="bodyContent" class="mw-body-content">
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><div class="mw-specialpage-summary">
+<div class="metadata topicon" style="right: 10px; font-size: 95%;"><a href="/wiki/Help:Searching" title="Help:Searching">Help:Searching</a></div>
+</div>
+<form id="search" method="get" action="/w/index.php"><div id="mw-search-top-table"><input type="hidden" value="Special:Search" name="title" /><input type="hidden" value="default" name="profile" />
+<input id="searchText" size="50" class="mw-ui-input mw-ui-input-inline" type="search" value="me how do to" name="search" />
+<input type="hidden" value="Search" name="fulltext" />
+<input class="mw-ui-button mw-ui-progressive" type="submit" value="Search" />
+<div class="results-info">Results <strong>1 - 20</strong> of <strong>56,566</strong></div><div style="clear:both"></div></div><div class="mw-search-profile-tabs"><div class="search-types"><ul><li class="current"><a href="/w/index.php?title=Special:Search&amp;search=me+how+do+to&amp;fulltext=Search&amp;profile=default" title="Search in (Article)">Content pages</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=me+how+do+to&amp;fulltext=Search&amp;profile=images" title="Search for files">Multimedia</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=me+how+do+to&amp;fulltext=Search&amp;profile=all" title="Search all of content (including talk pages)">Everything</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=me+how+do+to&amp;fulltext=Search&amp;profile=advanced" title="Search in custom namespaces">Advanced</a></li></ul></div><div style="clear:both"></div></div></form><div class='searchresults'><p class="mw-search-createlink">
+<i>The page "<a href="/w/index.php?title=Me_how_do_to&amp;action=edit&amp;redlink=1" class="new" title="Me how do to (page does not exist)">Me how do to</a>" does not exist. You can <a href="/wiki/Wikipedia:Articles_for_creation" title="Wikipedia:Articles for creation">ask for it to be created</a>, but consider checking the search results below to see whether the topic is already covered.</i></p>
+<ul class='mw-search-results'>
+<li><div class='mw-search-result-heading'><a href="/wiki/Etta_James_Sings_for_Lovers" title="Etta James Sings for Lovers">Etta James Sings for Lovers</a>    </div> <div class='searchresult'>from <span class="searchmatch">Me</span>&quot; &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> You Speak <span class="searchmatch">to</span> an Angel&quot; &quot;Fools Rush In&quot; &quot;Don't Blame <span class="searchmatch">Me</span>&quot; &quot;Someone <span class="searchmatch">to</span> Watch Over <span class="searchmatch">Me</span>&quot;  &quot;Again&quot; &quot;I Want <span class="searchmatch">to</span> Be Loved&quot; &quot;It Could Happen <span class="searchmatch">to</span> You&quot;</div>
+<div class='mw-search-result-data'>3 KB (217 words) - 19:48, 30 September 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Just_Like_Heaven_(song)" title="Just Like Heaven (song)">Just Like Heaven (song)</a>    </div> <div class='searchresult'>Poole <span class="searchmatch">to</span> Beachy Head in southern England. Smith said the opening line of the song (&quot;Show <span class="searchmatch">me</span>, show <span class="searchmatch">me</span>, show <span class="searchmatch">me</span> <span class="searchmatch">how</span> you <span class="searchmatch">do</span> that trick&quot;) refers <span class="searchmatch">to</span> his childhood</div>
+<div class='mw-search-result-data'>19 KB (2,056 words) - 12:53, 5 March 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Did_I_Shave_My_Legs_for_This%3F" title="Did I Shave My Legs for This?">Did I Shave My Legs for This?</a>    </div> <div class='searchresult'>Anyway&quot;, &quot;Count <span class="searchmatch">Me</span> In&quot;, &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> I Get There&quot;, and the title track were also released as a singles. Of these, &quot;We Danced Anyway&quot; and &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> I Get There&quot;</div>
+<div class='mw-search-result-data'>10 KB (377 words) - 17:27, 27 January 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Nural" title="Nural">Nural</a>    </div> <div class='searchresult'>&quot;The Root Of All Evil&quot; &quot;Sign Of Life&quot; &quot;Enlighten <span class="searchmatch">Me</span>&quot; &quot;I Told You So&quot; &quot;Years <span class="searchmatch">To</span> Come&quot; &quot;Forgive <span class="searchmatch">Me</span>&quot; &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> You Sleep At Night&quot; Entitlement (Hopeless Records</div>
+<div class='mw-search-result-data'>4 KB (542 words) - 08:00, 21 January 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/List_of_songs_recorded_by_R._Kelly" title="List of songs recorded by R. Kelly">List of songs recorded by R. Kelly</a>    </div> <div class='searchresult'>Kelly±   2007   Double Up  &quot;<span class="searchmatch">How</span> Did You Manage&quot;  Robert Kelly   Robert Kelly±   2004   Happy People/U Saved <span class="searchmatch">Me</span>  &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> I Tell Her&quot;  Robert Kelly   Robert</div>
+<div class='mw-search-result-data'>32 KB (28 words) - 17:13, 7 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/The_Message_(Bible)" title="The Message (Bible)">The Message (Bible)</a>   <span class='searchalttitle'>(section <a href="/wiki/The_Message_(Bible)#Comparison_to_other_translations" title="The Message (Bible)">Comparison <span class="searchmatch">to</span> other translations</a>)</span> </div> <div class='searchresult'>asking <span class="searchmatch">me</span> <span class="searchmatch">to</span> work on a new version of the Bible along the lines of what I had been <span class="searchmatch">doing</span> as a pastor. I agreed.&quot;   According <span class="searchmatch">to</span> the Introduction <span class="searchmatch">to</span> the New</div>
+<div class='mw-search-result-data'>8 KB (927 words) - 23:29, 10 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/All_This_Time_(Britt_Nicole_song)" title="All This Time (Britt Nicole song)">All This Time (Britt Nicole song)</a>    </div> <div class='searchresult'>present in this song, what has impacted <span class="searchmatch">me</span> most of all is the bridge '...I hear this people asking <span class="searchmatch">me</span>, <span class="searchmatch">how</span> <span class="searchmatch">do</span> I know what I believe, well I’m not the</div>
+<div class='mw-search-result-data'>8 KB (774 words) - 14:29, 7 October 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Baby,_Come_to_Me_(Patti_Austin_and_James_Ingram_song)" title="Baby, Come to Me (Patti Austin and James Ingram song)">Baby, Come <span class="searchmatch">to</span> <span class="searchmatch">Me</span> (Patti Austin and James Ingram song)</a>    </div> <div class='searchresult'>&quot;Baby, Come <span class="searchmatch">to</span> <span class="searchmatch">Me</span>&quot; is a classic love ballad written by Rod Temperton (formerly of Heatwave) for a male-female duet. The original version, performed by</div>
+<div class='mw-search-result-data'>3 KB (199 words) - 20:25, 4 April 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/LogMeIn" title="LogMeIn">Log<span class="searchmatch">Me</span>In</a>    </div> <div class='searchresult'>com/sites/benkepes/2014/09/04/logmein-acquires-meldium-start-of-the-identity-consolidation/   Log<span class="searchmatch">Me</span>In products join.<span class="searchmatch">me</span> website <span class="searchmatch">How</span> <span class="searchmatch">does</span> Remote Desktop Technology work?</div>
+<div class='mw-search-result-data'>9 KB (876 words) - 17:49, 5 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Mekayla_Diehl" title="Mekayla Diehl">Mekayla Diehl</a>    </div> <div class='searchresult'>was telling <span class="searchmatch">me</span> <span class="searchmatch">how</span> she <span class="searchmatch">does</span> different sports. We all <span class="searchmatch">do</span>.&quot; Diehl has ignited a wave of positivity encouraging women <span class="searchmatch">to</span> be healthy and not go <span class="searchmatch">to</span> extremes of</div>
+<div class='mw-search-result-data'>6 KB (698 words) - 22:32, 23 December 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Please_Please_Me_(song)" title="Please Please Me (song)">Please Please <span class="searchmatch">Me</span> (song)</a>    </div> <div class='searchresult'>Thank Your Lucky Stars. If one were <span class="searchmatch">to</span> accept Record Retailer's chart positions for &quot;Please, Please <span class="searchmatch">Me</span>&quot; and &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> You <span class="searchmatch">Do</span> It?&quot;, then George Martin's instincts</div>
+<div class='mw-search-result-data'>25 KB (3,453 words) - 06:31, 8 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Vince_Weber" title="Vince Weber">Vince Weber</a>    </div> <div class='searchresult'>&quot;Boogie Woogie Country Girl&quot;  7. &quot;Tell <span class="searchmatch">Me</span> <span class="searchmatch">How</span> <span class="searchmatch">Do</span> You Feel&quot;  8. &quot;When Girls <span class="searchmatch">Do</span> It&quot;  9. &quot;Octoroon&quot;  10. &quot;I'm <span class="searchmatch">Doing</span> Fine&quot;  11. &quot;Can't Trust Your Neighbour&quot;</div>
+<div class='mw-search-result-data'>7 KB (899 words) - 05:53, 28 April 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Coles_Whalen" title="Coles Whalen">Coles Whalen</a>  <span class='searchalttitle'>(category Pages containing links <span class="searchmatch">to</span> subscription-only content)</span>  </div> <div class='searchresult'>20 Something Call On <span class="searchmatch">Me</span> Wake Up Easy Hurricane (Wicked Won Remix) Nothing is Too Much 2008 Call on <span class="searchmatch">Me</span> <span class="searchmatch">How</span> <span class="searchmatch">Do</span> You <span class="searchmatch">Do</span> This <span class="searchmatch">to</span> <span class="searchmatch">Me</span> The Gettin' Side When</div>
+<div class='mw-search-result-data'>5 KB (535 words) - 23:04, 16 March 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/The_Good,_the_Bad,_the_Ugly" title="The Good, the Bad, the Ugly">The Good, the Bad, the Ugly</a>  <span class='searchalttitle'>(category Articles with album ratings that need <span class="searchmatch">to</span> be turned into prose)</span>  </div> <div class='searchresult'><span class="searchmatch">to</span> Eamon's &quot;Fuck It (I Don't Want You Back)&quot;. A second single, &quot;<span class="searchmatch">How</span> You <span class="searchmatch">Do</span>&quot;, failed <span class="searchmatch">to</span> repeat the success of &quot;F.U.R.B.&quot; and did not chart.  &quot;I <span class="searchmatch">Do</span> <span class="searchmatch">Me</span>&quot;</div>
+<div class='mw-search-result-data'>2 KB (115 words) - 22:42, 9 March 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Right_Thru_Me" title="Right Thru Me">Right Thru <span class="searchmatch">Me</span></a>    </div> <div class='searchresult'><span class="searchmatch">to</span> her in this borderline romantic tune—that is until Nicki busts out the repetitive chorus '<span class="searchmatch">How</span> <span class="searchmatch">do</span> you <span class="searchmatch">do</span> that shit?'. Musically, 'Right Through <span class="searchmatch">Me</span>'</div>
+<div class='mw-search-result-data'>20 KB (2,336 words) - 15:07, 18 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Toby_Keith" title="Toby Keith">Toby Keith</a>   <span class='searchalttitle'>(section <a href="/wiki/Toby_Keith#1999-2002:_How_Do_You_Like_Me_Now.3F.21_and_Pull_My_Chain" title="Toby Keith">1999-2002: <span class="searchmatch">How</span> <span class="searchmatch">Do</span> You Like <span class="searchmatch">Me</span> Now?! and Pull My Chain</a>)</span> </div> <div class='searchresult'>according <span class="searchmatch">to</span> Broadcast Music Incorporated. Signed <span class="searchmatch">to</span> DreamWorks Records Nashville in 1998, Keith released his breakthrough single &quot;<span class="searchmatch">How</span> <span class="searchmatch">Do</span> You Like <span class="searchmatch">Me</span> Now?</div>
+<div class='mw-search-result-data'>52 KB (6,422 words) - 20:11, 18 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Toby_Keith_discography" title="Toby Keith discography">Toby Keith discography</a>    </div> <div class='searchresult'>then click SEARCH  &quot;American albums certifications – Toby Keith – <span class="searchmatch">How</span> <span class="searchmatch">Do</span> You Like <span class="searchmatch">Me</span> Now?&quot;. Recording Industry Association of America.  If necessary, click</div>
+<div class='mw-search-result-data'>32 KB (1,343 words) - 22:35, 13 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Lauren_Passarelli" title="Lauren Passarelli">Lauren Passarelli</a>    </div> <div class='searchresult'>play here? And I get into a receiving place where the right ideas come <span class="searchmatch">to</span> <span class="searchmatch">me</span>. <span class="searchmatch">How</span> <span class="searchmatch">do</span> I know if it’s right? If I love it, it’s right. Bolstered By Blue needed</div>
+<div class='mw-search-result-data'>53 KB (8,737 words) - 13:00, 30 April 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/Frankie_Laine_discography" title="Frankie Laine discography">Frankie Laine discography</a>    </div> <div class='searchresult'>Moment <span class="searchmatch">To</span> Spare, What <span class="searchmatch">Do</span> You <span class="searchmatch">Do</span> With An Old Song, You - No One But You, You Taught <span class="searchmatch">Me</span> <span class="searchmatch">How</span> <span class="searchmatch">To</span> Love You Now Teach <span class="searchmatch">Me</span> <span class="searchmatch">To</span> Forget, You Wanted Someone <span class="searchmatch">To</span> Play</div>
+<div class='mw-search-result-data'>29 KB (3,219 words) - 19:26, 5 February 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/No_One_Knows_How_to_Love_Me_Quite_Like_You_Do" title="No One Knows How to Love Me Quite Like You Do">No One Knows <span class="searchmatch">How</span> <span class="searchmatch">to</span> Love <span class="searchmatch">Me</span> Quite Like You <span class="searchmatch">Do</span></a>    </div> <div class='searchresult'>&quot;No One Knows <span class="searchmatch">How</span> <span class="searchmatch">to</span> Love <span class="searchmatch">Me</span> Quite Like You <span class="searchmatch">Do</span>&quot; is a R&amp;B/hip-hop song performed by Aaliyah and Tia Hawkins. It was released as a promotional airplay single</div>
+<div class='mw-search-result-data'>2 KB (142 words) - 16:31, 25 November 2014</div></li>
+</ul>
+</div><p class='mw-search-pager-bottom'>View (previous 20 |  <a href="/w/index.php?title=Special:Search&amp;limit=20&amp;offset=20&amp;profile=default&amp;search=me+how+do+to" title="Next 20 results" class="mw-nextlink">next 20</a>) (<a href="/w/index.php?title=Special:Search&amp;limit=20&amp;offset=0&amp;profile=default&amp;search=me+how+do+to" title="Show 20 results per page" class="mw-numlink">20</a> | <a href="/w/index.php?title=Special:Search&amp;limit=50&amp;offset=0&amp;profile=default&amp;search=me+how+do+to" title="Show 50 results per page" class="mw-numlink">50</a> | <a href="/w/index.php?title=Special:Search&amp;limit=100&amp;offset=0&amp;profile=default&amp;search=me+how+do+to" title="Show 100 results per page" class="mw-numlink">100</a> | <a href="/w/index.php?title=Special:Search&amp;limit=250&amp;offset=0&amp;profile=default&amp;search=me+how+do+to" title="Show 250 results per page" class="mw-numlink">250</a> | <a href="/w/index.php?title=Special:Search&amp;limit=500&amp;offset=0&amp;profile=default&amp;search=me+how+do+to" title="Show 500 results per page" class="mw-numlink">500</a>)</p>
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/wiki/Special:Search">http://en.wikipedia.org/wiki/Special:Search</a>"					</div>
+													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=search%3Dme%2Bhow%2Bdo%2Bto&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=search%3Dme%2Bhow%2Bdo%2Bto" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-special" class="selected"><span><a href="/wiki/Special:Search?search=me%20how%20do%20to"  title="This is a special page which you cannot edit">Special page</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" value="me how do to" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Special:Search&amp;search=me+how+do+to&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Special:Search&amp;search=me+how+do+to&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf5/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf5/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf5/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=mw.PopUpMediaTransform\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.special.search","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikigrok.startup"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":470,"wgHostname":"mw1209"});
+}</script>
+	</body>
+</html>

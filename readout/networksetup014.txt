@@ -1,0 +1,1 @@
+If you want to communicate with 'fred' using the folder 'Temp' which is a shared folder then in settings set  Net,OUT to \\fred\temp\message.txt the file name which here is 'message.txt' can be anything as long as the name is the same on both computers.

@@ -1,0 +1,14 @@
+; Example Script
+; ==============
+;
+; OS:     Windows 9x/NT
+; Author: Piet
+;
+; Script to test stuflo ian how are you im not sure why im doing it like f
+
+WinActivate, Ai,,
+winwaitactive,Ai,,4
+sleep 1000
+send, hello how are you im not sure why im doing it like this but there you go
+Exit
+

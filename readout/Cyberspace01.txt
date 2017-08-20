@@ -1,0 +1,42 @@
+Dragon Systems is pleased to acknowledge Dave Barry and Crown Publishers for their 
+permission to use selections from Dave Barry's book , " Dave Barry in Cyberspace ," in this
+training program .
+
+" Dave Barry in Cyberspace ," (c) Copyright 1996 by Dave Barry
+
+Most of us are intimidated by computers . This is because computers involve electricity , 
+which totally baffles us . We're still not sure how come it doesn't dribble out of the wall 
+socket when we unplug an appliance .*
+
+* Answer: Air pressure prevents this from happening . ( Source : Stephen Hawking )
+
+In fact , most of us are baffled by all electronic devices .  Radio is a good example . 
+ We know that if we turn on a radio , it will start producing sounds , such as the song "
+Wooly Bully " by Sam the Sham and the Pharaohs .
+
+If we were pressed to explain this , we'd probably parrot the explanation we got from our 
+science teachers , which is that the radio is receiving " radio waves ." But the truth is 
+that we have no idea what this means . We can't answer such fundamental questions as: 
+
+What are " radio waves "? How come they don't make any noise when they go past our ears , 
+causing us to hear snippets of " Wooly Bully " zipping by ? How do they go through walls ? 
+Do they also go through our bodies ? Do they penetrate our skulls and get trapped inside 
+there and ricochet around ? Is that why certain songs , usually songs we really hate such 
+as " I Shot the Sheriff ," get stuck in our heads ?*
+
+* Also , " Seasons in the Sun "
+
+We can't answer any of these questions . The pathetic truth is that if our science teachers 
+had told us that radios work because they contain tiny nuclear-powered singing hamsters , 
+we'd repeat that , too . 
+
+We know nothing about technology , and cannot explain the principles involved in even the 
+most basic labor-saving devices , such as the Salad Shooter . So we naturally assume that 
+computers are way beyond our comprehension .
+
+But that is not necessarily the case . In fact , computers operate on simple principles 
+that can be easily understood by anybody with some common sense, a little imagination ,  
+and an IQ of 750 . So let's put on our thinking caps now and get right to our discussion 
+of: how computers work .
+
+readCyberspace02

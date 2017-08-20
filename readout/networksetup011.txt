@@ -1,0 +1,1 @@
+In order to communicate across a network the Ai, needs to be able to write to a file on the computer it is trying to communicate with. To find out if we can communicate across the network we need to check the conection.

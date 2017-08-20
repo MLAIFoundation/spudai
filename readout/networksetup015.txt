@@ -1,0 +1,1 @@
+You can use either, the same name for inputs and outputs or, a seperate name for each. An output from one Ai will be read by the input on the other, and visa versa. Sometimes it's easyier to use the same name to prevent input and output, confusion.
